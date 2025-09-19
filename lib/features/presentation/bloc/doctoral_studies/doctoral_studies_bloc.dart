@@ -1,0 +1,2 @@
+export 'doctoral_studies_filter/doctoral_studies_filter_cubit.dart';
+export 'doctoral_studies_controller/doctoral_studies_controller_bloc.dart';

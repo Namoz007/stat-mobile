@@ -1,0 +1,12 @@
+export 'otm_repositories/otm_controller_repository.dart';
+export 'professional/professional_controller_repository.dart';
+export 'acceptance_controller_repository.dart';
+export 'otm_repositories/students_controller_repository.dart';
+export 'otm_repositories/teachers_controller_repository.dart';
+export 'otm_repositories/students_education_form_controller_repository.dart';
+export 'otm_repositories/students_payment_form_repository.dart';
+export 'otm_repositories/students_citizenship_repository.dart';
+export 'otm_repositories/students_courses_repository.dart';
+export 'otm_repositories/students_age_residence_repository.dart';
+export 'otm_repositories/students_region_section_repository.dart';
+export 'doctoral_studies_repositories/doctoral_studies_repository.dart';

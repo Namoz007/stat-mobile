@@ -1,0 +1,9 @@
+export 'splash/splash_screen.dart';
+export 'home/home_screen.dart';
+export 'drawer/custom_drawer.dart';
+export 'home/widgets/widgets.dart';
+export 'base/base_screen.dart';
+export 'otm_pages/otm_pages.dart';
+export 'professional_pages/professional_pages.dart';
+export 'acceptance_pages/acceptance_pages.dart';
+export 'doctoral_studies/doctoral_studies_pages.dart';

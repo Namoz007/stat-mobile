@@ -1,0 +1,13 @@
+export 'show_otm_category.dart';
+export 'show_otm_data.dart';
+export 'show_university_statistic.dart';
+export 'top_universities.dart';
+export '../../otm_otms_type/otm_list_page.dart';
+export '../../otm_general_type/general_page.dart';
+export '../../otm_otms_type/widgets/show_university.dart';
+export '../../otm_otms_type/widgets/show_university_type.dart';
+export '../../otm_otms_type/widgets/university_title_data.dart';
+export '../../otm_otms_type/widgets/show_university_social_data.dart';
+export 'students_count_otm_ownership_type.dart';
+export 'professor_and_teacher_gender_type.dart';
+export 'otm_title_menu.dart';

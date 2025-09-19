@@ -1,0 +1,16 @@
+part of 'students_education_form_controller_bloc.dart';
+class StudentsEducationFormControllerEvent {}
+
+final class GetAgeStatisticStudentsEducationFormControllerEvent extends StudentsEducationFormControllerEvent {}
+
+final class GetCitizenshipStudentsEducationFormControllerEvent extends StudentsEducationFormControllerEvent {}
+
+final class GetPaymentTypeStudentsEducationFormControllerEvent extends StudentsEducationFormControllerEvent {}
+
+final class GetCoursesStudentsEducationFormControllerEvent extends StudentsEducationFormControllerEvent {}
+
+final class GetResidenceStudentsEducationFormControllerEvent extends StudentsEducationFormControllerEvent {}
+
+final class GetGenderStudentsEducationFormControllerEvent extends StudentsEducationFormControllerEvent {}
+
+final class UpdateStateStudentsEducationFormControllerEvent extends StudentsEducationFormControllerEvent{}
